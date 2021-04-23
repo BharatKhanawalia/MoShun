@@ -1,0 +1,4 @@
+#Fri Apr 23 15:36:02 IST 2021
+base.0=E\:\\Documents\\Bharat\\Flutter Projects\\human_activity\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

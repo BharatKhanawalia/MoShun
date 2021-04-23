@@ -1,0 +1,4 @@
+com/tfliteflutter/tflite_flutter_plugin/TfliteFlutterPlugin.java
+ com.tfliteflutter.tflite_flutter_plugin.TfliteFlutterPlugin
+com/tfliteflutter/tflite_flutter_plugin/BuildConfig.java
+ com.tfliteflutter.tflite_flutter_plugin.BuildConfig
