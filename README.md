@@ -1,6 +1,6 @@
 # MoShun
 <p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/48212928/115899075-f26b8f00-a47b-11eb-9c71-5b02cd00515d.png">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/48212928/115915526-12f21400-a491-11eb-9563-a9af87c3ac78.png">
 </p>
 
 **Check out the app:** [Download MoShun.apk](https://drive.google.com/u/0/uc?export=download&confirm=zxtk&id=1as9MeslLqKM2rl3h_VlN3ORou2vbpJmr)
