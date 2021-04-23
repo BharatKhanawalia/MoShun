@@ -1,4 +1,0 @@
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
--keep class com.example.human_activity.MainActivity { <init>(); }
--keep class dk.cachet.activity_recognition_flutter.ActivityRecognizedService { <init>(); }
--keep class dk.cachet.activity_recognition_flutter.ForegroundService { <init>(); }
