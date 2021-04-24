@@ -6,7 +6,7 @@
 **Check out the app:** [Download MoShun.apk](https://drive.google.com/u/0/uc?export=download&confirm=zxtk&id=1as9MeslLqKM2rl3h_VlN3ORou2vbpJmr)
 
 ## About
-A Simple & Beautiful **Flutter App** with minimal animations, which implements **Human Activity Recognition** (a Deep Learning TensorFlow Model) using Smartphone's Sensors.
+A Simple & Beautiful **Flutter App** with minimal animations, which implements **Human Activity Recognition** (a Deep Learning TensorFlow Model) using Smartphone's Sensors. The app consists of an API by which we can get smartphone's sensors data. This extracted data is realtime and changes according to the position and movement of the smartphone. The extracted data is then used by the integrated TensorFlow model which process the input sensor values and then gives the output after every 2.6 seconds and also updates UI in realtime.
 ### Human Activity Recognition
 Human activity recognition, or HAR, is a challenging time series classification task. It involves predicting the movement of a person based on sensor (here, smartphone sensors) data and traditionally involves deep domain expertise and methods from signal processing to correctly engineer features from the raw data in order to fit a machine learning model.
 - **Smartphone Sensors used:**
